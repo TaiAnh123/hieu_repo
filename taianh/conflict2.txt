@@ -1,0 +1,6 @@
+
+kiem tra nhanh dang dung truoc khi lam bat cu cong viec gi
+git branch
+nhanh co mau xanh la nhanh dang dung
+
+
