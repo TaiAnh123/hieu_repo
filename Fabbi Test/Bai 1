@@ -1,0 +1,29 @@
+Bai1
+<?php
+
+function fil(array $N, $n) {
+$x = [];
+$y = [];
+$z = [];
+
+For ($i = 0; $i< $n-1 ; $i++) 
+    {
+	$x[$i] = $n[$i];
+	$y[$i] = $n[$i+n];
+	$z[$i] = $n[$i+2n];
+	}
+$result = [];
+For ($j = 0; $j< $n-1; $j++)
+	{
+	$result[3$j] = $x[$j];
+	$result[3$j+1] = $x[$j];
+	$result[3$j+2] = $x[$j];
+	}
+	return $result;
+}
+
+
+
+
+
+

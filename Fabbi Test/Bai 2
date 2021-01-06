@@ -1,0 +1,10 @@
+Bai 2
+
+<?php 
+ function Sum2max(array $n) {
+	rsort($n);
+	return $tong = $n[0] + $n[1];
+	}
+
+Bai 3
+
